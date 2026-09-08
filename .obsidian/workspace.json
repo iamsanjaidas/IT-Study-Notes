@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT Hub Config.md",
+                "file": "GIT/GIT Hub Config.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "GIT/Git.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Three-Stage Git Workflow.md",
+                "file": "GIT/The Three-Stage Git Workflow.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Three-Stage Git Workflow.md",
+                "file": "GIT/The Three-Stage Git Workflow.md",
                 "mode": "source",
                 "source": false
               },
@@ -229,13 +229,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f06825265be3ae16",
+  "active": "c0b0162f1d21ecb0",
   "lastOpenFiles": [
-    "Important Commads.md",
-    "The Three-Stage Git Workflow.md",
-    "Git.md",
-    "GIT Hub Config.md",
-    "README.md",
+    "GIT/README.md",
+    "GIT/The Three-Stage Git Workflow.md",
+    "GIT",
+    "GIT/Important Commads.md",
+    "GIT/Git.md",
+    "GIT/GIT Hub Config.md",
     "Welcome.md"
   ]
 }
