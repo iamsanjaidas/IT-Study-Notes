@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Fundamentals/Day 1 Computer Architecture.md",
+                "file": "GIT/GIT Hub Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 Computer Architecture"
+              "title": "GIT Hub Config"
             }
           }
         ]
@@ -186,10 +186,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "f06825265be3ae16",
+  "active": "64d99e200953e1bf",
   "lastOpenFiles": [
-    "GIT/The Three-Stage Git Workflow.md",
     "IT Fundamentals/Day 1 Computer Architecture.md",
+    "GIT/The Three-Stage Git Workflow.md",
     "SOC Skills",
     "SIEM",
     "Defender",
